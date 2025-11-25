@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PesquisaBinaria
 {
@@ -11,29 +7,25 @@ namespace PesquisaBinaria
         static void Main(string[] args)
         {
             // Criação de uma lista com todos as fichas dispostas em ordem alfabética dos sobrenomes dos pacientes cadastrados
-            
-            
             string[] nomes = {"Abreu", "Aguiar", "Albuquerque", "Almeida", "Amaral", "Andrade", 
                                 "Antunes", "Araújo", "Azevedo", "Barbosa", "Batista", "Bezerra", 
                                 "Borges", "Brandão", "Brito", "Bueno", "Buzatti", "Campos", 
                                 "Cardoso", "Carvalho", "Castro", "Cavalcante", "Coelho", 
-                                "Correia", "Costa", "Coutinho", "Cruz","Damasceno", "Dantas",
-                                "Dias", "Diniz", "Domingues", "Duarte","Esteves", "Evangelista",
+                                "Correia", "Costa", "Coutinho", "Cruz", "Damasceno", "Dantas",
+                                "Dias", "Diniz", "Domingues", "Duarte", "Esteves", "Evangelista",
                                 "Fagundes", "Farias", "Fernandes", "Ferraz", "Ferreira", "Figueiredo",
-                                "Fonseca", "Fraga", "Freitas","Garcia", "Gonçalves", "Gomes",
-                                "Guedes", "Guimarães","Henriques", "Holanda", "Homem","Inácio",
-                                "Irmão", "Jardim", "Jesus", "Junqueira","Klein", "Krause",
+                                "Fonseca", "Fraga", "Freitas", "Garcia", "Gonçalves", "Gomes",
+                                "Guedes", "Guimarães", "Henriques", "Holanda", "Homem", "Inácio",
+                                "Irmão", "Jardim", "Jesus", "Junqueira", "Klein", "Krause",
                                 "Lacerda", "Leal", "Leite", "Lima", "Lopes", "Luz",
                                 "Machado", "Magalhães", "Marques", "Martins", "Medeiros", "Melo",
                                 "Miranda", "Monteiro", "Moraes", "Moura", "Nascimento", "Navarro",
-                                "Neves", "Nogueira", "Oliveira", "Ornelas","Pacheco", "Peixoto", 
+                                "Neves", "Nogueira", "Oliveira", "Ornelas", "Pacheco", "Peixoto", 
                                 "Pereira", "Pinto", "Porto", "Prado", "Queiroz", "Ramos",
                                 "Reis", "Ribeiro", "Rocha", "Rodrigues", "Sampaio", "Santana", 
                                 "Santos", "Silva", "Souza", "Teixeira", "Torres", "Uchoa", 
                                 "Valente", "Vasconcelos", "Vieira", "Wagner", "Xavier", "Yamamoto", 
                                 "Zanetti" };
-            
-            
             
             string procurado = "Silva";
 
