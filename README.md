@@ -10,5 +10,5 @@ Aqui estão o nome dos participantes do grupo, com o link para os seus respectiv
 * [Carol Zambanini](https://github.com/zamba-cl); 
 * [Felipe Rolemberg](https://github.com/feliperolemberg);
 * Gabriel Santos;
-* Kamilly Victoria;
+* [Kamilly Victoria](https://github.com/kaaaamillyll);
 * Vitor Hugo.
