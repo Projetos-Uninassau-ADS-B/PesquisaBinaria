@@ -9,6 +9,6 @@ Aqui estão o nome dos participantes do grupo, com o link para os seus respectiv
 
 * [Carol Zambanini](https://github.com/zamba-cl); 
 * [Felipe Rolemberg](https://github.com/feliperolemberg);
-* Gabriel Santos;
+* [Gabriel Santos](https://github.com/Gabriel007-web);
 * [Kamilly Victoria](https://github.com/kaaaamillyll);
-* Vitor Hugo.
+* [Vitor Hugo](https://github.com/DevVitorH).
